@@ -1,4 +1,7 @@
 # Divergent physiological and molecular responses of light- and iron-limited Southern Ocean phytoplankton
+GitHub repository containing data and code accompanying the L&O Letters manuscript (Andrew et al 202x)
+### Zenodo DOI: <a href="https://zenodo.org/badge/latestdoi/399556930"><img src="https://zenodo.org/badge/399556930.svg" alt="DOI"></a>
+
 The peer-reviewed publication for this dataset has now been published in xx, and can be accessed here:xxx. Please cite this when using the dataset.
 
 ## Authors
@@ -11,9 +14,6 @@ Sarah M. Andrew 1, Robert F. Strzepek2, Spencer Whitney3, Wah Soon Chow3, Michae
 It has recently been shown that Southern Ocean phytoplankton species have evolved to optimise their light-harvesting potential without increasing the high iron-requiring proteins used for photosynthesis. We measured molecular and physiological responses of phytoplankton cultures under a combination of iron and light conditions. While iron-replete cultures mostly increased biovolume, photochemical efficiency (Fv/Fm) and the relative abundance of PSII and Cytochrome b6f protein compared to iron-limited cultures, light also regulated cellular chlorophyll a content and played a role in controlling PSII protein abundance. Investment of protein resources into the carbon fixing enzyme Ribulose 1, 5 bisphosphate carboxylase oxygenase (Rubisco) was species-specific, but increased growth rates correlated with increased investment into Rubisco for all species. Our results suggest that Proboscia inermis uses a divergent molecular strategy to compete for nutrients, light and CO2 in the Southern Ocean. 
 
 ### Manuscript DOI:
-
-### Zenodo DOI:
-<a href="https://zenodo.org/badge/latestdoi/399556930"><img src="https://zenodo.org/badge/399556930.svg" alt="DOI"></a>
 
 
 #### Repository contains the following files:  
