@@ -13,6 +13,7 @@ It has recently been shown that Southern Ocean phytoplankton species have evolve
 ### Manuscript DOI:
 
 ### Zenodo DOI:
+<a href="https://zenodo.org/badge/latestdoi/399556930"><img src="https://zenodo.org/badge/399556930.svg" alt="DOI"></a>
 
 
 #### Repository contains the following files:  
