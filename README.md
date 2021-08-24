@@ -2,9 +2,9 @@
 The peer-reviewed publication for this dataset has now been published in xx, and can be accessed here:xxx. Please cite this when using the dataset.
 
 ## Authors
-Sarah M. Andrew 1, Robert F. Strzepek2, Spencer Whitney3, Wah Soon Chow3, Michael J. Ellwood1
-1 Research School of Earth Sciences, Australian National University, Canberra, ACT, Australia
-2 Australian Antarctic Program Partnership (AAPP), Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania, Australia
+Sarah M. Andrew 1, Robert F. Strzepek2, Spencer Whitney3, Wah Soon Chow3, Michael J. Ellwood1  
+1 Research School of Earth Sciences, Australian National University, Canberra, ACT, Australia  
+2 Australian Antarctic Program Partnership (AAPP), Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania, Australia  
 3 Research School of Biology, Australian National University, Canberra, ACT, Australia
 
 ## Abstract
