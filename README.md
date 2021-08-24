@@ -9,3 +9,7 @@ Sarah M. Andrew 1, Robert F. Strzepek2, Spencer Whitney3, Wah Soon Chow3, Michae
 
 ## Abstract
 It has recently been shown that Southern Ocean phytoplankton species have evolved to optimise their light-harvesting potential without increasing the high iron-requiring proteins used for photosynthesis. We measured molecular and physiological responses of phytoplankton cultures under a combination of iron and light conditions. While iron-replete cultures mostly increased biovolume, photochemical efficiency (Fv/Fm) and the relative abundance of PSII and Cytochrome b6f protein compared to iron-limited cultures, light also regulated cellular chlorophyll a content and played a role in controlling PSII protein abundance. Investment of protein resources into the carbon fixing enzyme Ribulose 1, 5 bisphosphate carboxylase oxygenase (Rubisco) was species-specific, but increased growth rates correlated with increased investment into Rubisco for all species. Our results suggest that Proboscia inermis uses a divergent molecular strategy to compete for nutrients, light and CO2 in the Southern Ocean. 
+
+### Manuscript DOI:
+
+### Zenodo DOI:
