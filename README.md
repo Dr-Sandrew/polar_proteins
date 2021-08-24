@@ -19,3 +19,4 @@ It has recently been shown that Southern Ocean phytoplankton species have evolve
 Metadata .doc file  
 Data .xls file  
 R code to recreate PCA plots, and 2way ANOVA with associated F statistics
+All R code was written in R version 3.5.1 using R studio.
