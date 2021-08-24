@@ -15,7 +15,7 @@ It has recently been shown that Southern Ocean phytoplankton species have evolve
 ### Zenodo DOI:
 
 
-### Repository contains the following files:
-Metadata .doc file
-Data .xls file
+### Repository contains the following files:  
+Metadata .doc file  
+Data .xls file  
 R code to recreate PCA plots, and 2way ANOVA with associated F statistics
