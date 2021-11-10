@@ -2,7 +2,7 @@
 GitHub repository containing data and code accompanying the L&O Letters manuscript (Andrew et al 2021)
 ### Zenodo DOI: <a href="https://zenodo.org/badge/latestdoi/399556930"><img src="https://zenodo.org/badge/399556930.svg" alt="DOI"></a>
 
-The peer-reviewed publication for this dataset has now been published in L & O Letters, and can be accessed here: 10.1002/lol2.10223. Please cite this when using the dataset.
+The peer-reviewed publication for this dataset has now been published in L & O Letters, and can be accessed here: https://doi.org/10.1002/lol2.10223. Please cite this when using the dataset.
 
 ## Authors
 Sarah M. Andrew <sup>1</sup>, Robert F. Strzepek <sup>2</sup>, Spencer Whitney <sup>3</sup>, Wah Soon Chow <sup>3</sup>, Michael J. Ellwood <sup>1</sup>  
